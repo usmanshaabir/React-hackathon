@@ -1,4 +1,6 @@
 import "./App.css";
+import '../node_modules/bootstrap/dist/js/bootstrap.bundle'
+import '../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js';
 import SideBar from "./components/Sidebar/SideBar.jsx";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
